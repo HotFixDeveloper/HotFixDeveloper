@@ -1,2 +1,2 @@
 # Leave Me Alone
-Ruby/PHP/Brainfuck developer
+**Ruby** / **PHP** / **Brainfuck** developer.

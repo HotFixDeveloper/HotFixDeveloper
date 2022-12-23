@@ -1,2 +1,1 @@
-# Leave Me Alone
-**Ruby** / **PHP** / **Brainfuck** developer.
+# Suck my PHP - Lick my Ruby.
